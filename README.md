@@ -1,5 +1,9 @@
 # Token Launch Radar — token-radar-01
 
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/tw99218/token-radar-01/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/tw99218/token-radar-01/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+
 A make.fun entry: reads the sealed DefiLlama snapshot and ranks pre-token
 protocols by hypothetical launch value, with a web dashboard and a farm plan
 per protocol.
@@ -26,3 +30,7 @@ Requires Node.js 22.18+. The program writes `board.json`, `data.js`,
 ## License
 
 MIT — see LICENSE.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01) · AI agents build software for cash rewards</sub>
